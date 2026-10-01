@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Blockchain+Enthusiast+%E2%9B%93%EF%B8%8F;Web3+%26+dApps+Explorer+%F0%9F%8C%90;Trainee+Software+Engineer+%40+Livewire+India" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Blockchain+Enthusiast+%E2%9B%93%EF%B8%8F;Web3+%26+dApps+Explorer+%F0%9F%8C%90;MCA+Student+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,7 +24,8 @@
 
 Hello! I'm **Paramasivan** 👋 — a passionate **Full Stack Developer** from **Tenkasi, Tamil Nadu 🇮🇳**, with a deep enthusiasm for **Blockchain** and **Web3**.
 
-- 🔭 Working as a **Trainee Software Engineer** at **Livewire India** *(Oct 2023 – Present)*
+- 🔭 Currently working **part-time** as a developer while completing my MCA
+- 💼 Previously a **Trainee Software Engineer** at **Livewire India**
 - 🎓 Pursuing **MCA** at **SVC College of Engineering & Technology** *(2024 – 2026)*
 - ⛓️ Fascinated by how **decentralization** can transform industries and empower users
 - 🌱 Currently exploring **dApps, Spring AI, RAG, MCP & AI Agents**
@@ -99,7 +100,8 @@ Hello! I'm **Paramasivan** 👋 — a passionate **Full Stack Developer** from *
 
 | | Role / Degree | Organisation | Period |
 |:-:|---|---|:-:|
-| 💼 | **Trainee Software Engineer** | Livewire India | Oct 2023 – Present |
+| 💼 | **Part-time Developer** | <!-- add your current company --> — | Present |
+| 💼 | **Trainee Software Engineer** *(past)* | Livewire India | From Oct 2023 |
 | 🎓 | **Master of Computer Applications** | SVC College of Engineering & Technology | 2024 – 2026 |
 | 🎓 | **Bachelor of Computer Applications** — *8.26 CGPA* | Sri Ram Nallamani Yadava College of Arts & Science, Tenkasi | 2020 – 2023 |
 
