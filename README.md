@@ -24,8 +24,7 @@
 
 Hello! I'm **Paramasivan** 👋 — a passionate **Full Stack Developer** from **Tenkasi, Tamil Nadu 🇮🇳**, with a deep enthusiasm for **Blockchain** and **Web3**.
 
-- 🔭 Currently working **part-time** as a developer while completing my MCA
-- 💼 Previously a **Trainee Software Engineer** at **Livewire India**
+- 💼 Previously worked **part-time** as a **Trainee Software Developer** at **Livewire India**
 - 🎓 Pursuing **MCA** at **SVC College of Engineering & Technology** *(2024 – 2026)*
 - ⛓️ Fascinated by how **decentralization** can transform industries and empower users
 - 🌱 Currently exploring **dApps, Spring AI, RAG, MCP & AI Agents**
@@ -100,8 +99,7 @@ Hello! I'm **Paramasivan** 👋 — a passionate **Full Stack Developer** from *
 
 | | Role / Degree | Organisation | Period |
 |:-:|---|---|:-:|
-| 💼 | **Part-time Developer** | <!-- add your current company --> — | Present |
-| 💼 | **Trainee Software Engineer** *(past)* | Livewire India | From Oct 2023 |
+| 💼 | **Trainee Software Developer** *(Part-time)* | Livewire India | From Oct 2023 |
 | 🎓 | **Master of Computer Applications** | SVC College of Engineering & Technology | 2024 – 2026 |
 | 🎓 | **Bachelor of Computer Applications** — *8.26 CGPA* | Sri Ram Nallamani Yadava College of Arts & Science, Tenkasi | 2020 – 2023 |
 
